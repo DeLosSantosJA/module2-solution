@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <h2>OUR MENU</h2>
+        <h2><CENTER>OUR MENU<CENTER></h2>
     <head>
 <body>
         <h3>Chicken</h3>
